@@ -8,6 +8,8 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+> 🇧🇷 [Versão em português disponível aqui](README_PT.md)
+
 > Predicting next-day IBOVESPA market direction (up/down) using classical time series models and machine learning classifiers trained on six correlated macroeconomic indicators from the Brazilian and global markets (2022–2025).
 
 ---
